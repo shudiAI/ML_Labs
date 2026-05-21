@@ -1,5 +1,6 @@
 # ARTI308_Lab11
-## K-Means Clustering Project
+## Last Lab!
+### K-Means Clustering Project
 
 This project applies the K-Means clustering algorithm to segment credit card customers based on their financial behavior.
 
