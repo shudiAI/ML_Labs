@@ -1,1 +1,2 @@
-
+# ARTI308_Laab3
+Exploratory Data Analysis (EDA) is a critical process used to analyze and summarize the main characteristics of the BMW dataset through visual and statistical methods. It helps in identifying patterns, spotting anomalies, and checking assumptions, such as the negative correlation between mileage and price. By performing EDA, we ensure the data is clean and gain valuable insights that guide our decision-making for future modeling.
